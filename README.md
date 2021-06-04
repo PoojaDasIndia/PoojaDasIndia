@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/84202477/120802155-bb4eca00-c55f-11eb-8f87-1aae247f9eb9.jpeg" alt= "Pooja Das Pic " width="100" height="100">
- 
+<img src="https://user-images.githubusercontent.com/84202477/120804482-547ee000-c562-11eb-9ff6-6699222dc421.jpeg" alt= "Pooja Das Pic " width="150" height="150">
+
 - :raising_hand: Hi, I’m Pooja Das
 - :earth_asia: Live in... India
 - 👀 I’m interested in Data Analyzing and Data Visualizing
