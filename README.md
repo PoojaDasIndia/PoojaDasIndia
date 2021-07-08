@@ -4,6 +4,7 @@
 - :earth_asia: Live in... India
 - 👀 I’m interested in Data Analyzing and Data Visualizing
 - :woman_technologist: About My Skill... *Python *Power BI *Tableau *Ms-Excel *Power Query *Power Pivot *MySQL 
+- :world_map: https://poojadas93.wixsite.com/portfolio
 - :point_right: LinkedIn...https://www.linkedin.com/in/pooja-das-8a56b5110/
 - :writing_hand:Twitter...@Poojadas1993
 - :iphone: +91-8560997271
