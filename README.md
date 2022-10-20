@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/poojadas1993" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vectors%2Ficon-linkedin-transparent-vectors&psig=AOvVaw29vRgR7ImOlarRSrnrA6t8&ust=1666370647571000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJC8ksag7_oCFQAAAAAdAAAAABAE" alt="PoojaDasIndia" height="30" width="40" /></a>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Flinkedin-logo%2F&psig=AOvVaw29vRgR7ImOlarRSrnrA6t8&ust=1666370647571000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJC8ksag7_oCFQAAAAAdAAAAABAJ" alt="PoojaDasIndia" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PoojaDasIndia&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpaPoojaDasIndiatankar926" /> </p>
 
