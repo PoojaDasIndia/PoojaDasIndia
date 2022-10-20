@@ -16,9 +16,8 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpatankar926&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpatankar926" /> </p>
 
-    <img src="https://user-images.githubusercontent.com/84202477/120804482-547ee000-c562-11eb-9ff6-6699222dc421.jpeg" alt= "Pooja Das Pic " width="150" height="150">
+<img src="https://user-images.githubusercontent.com/84202477/120804482-547ee000-c562-11eb-9ff6-6699222dc421.jpeg" alt= "Pooja Das Pic " width="150" height="150">
 
-- :raising_hand: Hi, I’m Pooja Das
 - :earth_asia: Live in... India
 - 👀 I’m interested in Data Analyzing and Data Visualizing
 - :woman_technologist: About My Skill... *Python *Power BI *Tableau *Ms-Excel *Power Query *Power Pivot *MySQL 
