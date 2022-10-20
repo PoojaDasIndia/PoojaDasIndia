@@ -1,4 +1,22 @@
-<img src="https://user-images.githubusercontent.com/84202477/120804482-547ee000-c562-11eb-9ff6-6699222dc421.jpeg" alt= "Pooja Das Pic " width="150" height="150">
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<body>
+    <h1 align="center">Hi 👋, I'm Pooja Das</h1>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rohanpatankar926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanpatankar926" height="30" width="40" /></a>
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpatankar926&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpatankar926" /> </p>
+
+    <img src="https://user-images.githubusercontent.com/84202477/120804482-547ee000-c562-11eb-9ff6-6699222dc421.jpeg" alt= "Pooja Das Pic " width="150" height="150">
 
 - :raising_hand: Hi, I’m Pooja Das
 - :earth_asia: Live in... India
@@ -14,32 +32,6 @@
 PoojaDasIndia/PoojaDasIndia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<body>
-    <h1 align="center">Hi 👋, I'm Rohan Patankar</h1>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohanpatankar926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanpatankar926" height="30" width="40" /></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpatankar926&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpatankar926" /> </p>
-
-- 🔭 I’m currently working on **OpenCv** projects
-
-- 🌱 I’m currently learning **Data Science,Web Dev**
-
-- 👨‍💻 Look at my portfolio [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app)
-
-- 💬 Ask me about **DataScience,Ml,Dl,Web dev**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PMkXtGcHn5rlswGQquLhRb8b9jmZ-L_8/view](https://drive.google.com/file/d/1PMkXtGcHn5rlswGQquLhRb8b9jmZ-L_8/view)
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
