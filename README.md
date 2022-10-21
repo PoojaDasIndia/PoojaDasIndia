@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/84202477/120804482-547ee000-c562-11eb-9ff6-6699222dc421.jpeg" alt= "Pooja Das Pic " width="150" height="150">
 
 - :earth_asia: Live in... India
-- 👀 I’m interested in Data Analyzing and Data Visualizing
+- 👀 Dedicated Data Analysis and an aspiring Data Scientist
 - :woman_technologist: About My Skill... *Python *Power BI *Tableau *Ms-Excel *Power Query *Power Pivot *MySQL 
 - :world_map:Profolio... https://poojadas93.wixsite.com/portfolio
 - :writing_hand:Resume...https://www.dropbox.com/s/7zzpl79cfb8xns7/Ml%20Resume.pdf?dl=0
