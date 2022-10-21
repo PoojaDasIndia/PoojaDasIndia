@@ -23,7 +23,7 @@
 - :woman_technologist: About My Skill... *Python *Power BI *Tableau *Ms-Excel *Power Query *Power Pivot *MySQL 
 - :world_map: https://poojadas93.wixsite.com/portfolio
 - :writing_hand:Resume...https://www.dropbox.com/s/7zzpl79cfb8xns7/Ml%20Resume.pdf?dl=0
-- :point_right: LinkedIn...https://www.linkedin.com/in/pooja-das-8a56b5110/
+- :point_right: LinkedIn...https://www.linkedin.com/in/poojadas1993/
 - :writing_hand:Twitter...@Poojadas1993
 - :iphone: +91-8560997271
 - 📫 How to reach me ... PoojaDas93@outlook.com
