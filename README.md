@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/poojadas1993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PoojaDasIndia" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PoojaDasIndia&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpaPoojaDasIndiatankar926" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PoojaDasIndia&label=Profile%20views&color=0e75b6&style=flat" alt="PoojaDasIndia" /> </p>
 
 <img src="https://user-images.githubusercontent.com/84202477/120804482-547ee000-c562-11eb-9ff6-6699222dc421.jpeg" alt= "Pooja Das Pic " width="150" height="150">
 
